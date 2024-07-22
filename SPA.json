@@ -1,0 +1,1002 @@
+{
+   "FACv2-01-Sign-Up-Finish-Registration": {
+      "body": "<b>Bienvenido a {{brand}} 🚀</b></br></br>Solo un paso más para completar totalmente la configuración de tu cuenta. Simplemente haz clic en <b>completar registro</b> y obtén acceso a tu cuenta en minutos.",
+      "cta": "Completar Registro",
+      "footer": {
+        "address": "8th The Green Ste A Dover, DE 19901",
+        "copyright": "2024 TopTier Funding LLC. Todos los derechos reservados.",
+        "disclaimer": "ACLARATORIA: El comercio de instrumentos financieros conlleva un riesgo sustancial de pérdida y no es adecuado para todos los inversores. La valoración de futuros, acciones y opciones puede fluctuar y, como resultado, los clientes pueden perder más de su inversión original. El impacto de eventos estacionales y geopolíticos ya está factorizado en los precios del mercado. La naturaleza altamente apalancada del comercio de futuros significa que pequeños movimientos del mercado tendrán un gran impacto en su cuenta de operaciones y esto puede jugar en su contra, llevando a grandes pérdidas o puede jugar a su favor, llevando a grandes ganancias.",
+        "destination": "Este correo electrónico ha sido enviado a ",
+        "unsubscribe": "haz clic aquí para cancelar tu suscripción"
+       },
+      "signature": "Mucho éxito 🔥",
+      "subject": "Completa tu Registro y Administra hasta $300k 🌟",
+       "title": "Completa tu Registro"
+     }
+}
+      
+{
+  "FACv2-02-Sign-Up-Success": {
+    "greeting": "Hola {{firstName}},",
+    "body": "¡Listo! estás completamente registrado y listo para enfrentar el challenge definitivo.</br>¿Quieres saber más sobre nuestros challenges y cómo empezar? Simplemente visita nuestra <a style=\"text-decoration: none;\" target=\"_blank\" href=\"http://help.toptiertrader.com/en/\"><b><u>{{faq}}</u></b></a>, ¡hemos cubierto todo lo que necesitas saber!",
+    "faq": "página de Preguntas Frecuentes",
+    "cta": "Acceder a Mi Panel",
+    "signature": "Mucho éxito 🔥",
+    "footer": {
+      "address": "8th The Green Ste A Dover, DE 19901",
+      "copyright": "2024 TopTier Funding LLC. Todos los derechos reservados.",
+      "disclaimer": "ACLARATORIA: El comercio de instrumentos financieros conlleva un riesgo sustancial de pérdida y no es adecuado para todos los inversores. La valoración de futuros, acciones y opciones puede fluctuar y, como resultado, los clientes pueden perder más de su inversión original. El impacto de eventos estacionales y geopolíticos ya está factorizado en los precios del mercado. La naturaleza altamente apalancada del comercio de futuros significa que pequeños movimientos del mercado tendrán un gran impacto en su cuenta de operaciones y esto puede jugar en su contra, llevando a grandes pérdidas o puede jugar a su favor, llevando a grandes ganancias.",
+      "destination": "Este correo electrónico ha sido enviado a ",
+      "unsubscribe": "haz clic aquí para cancelar tu suscripción"
+    },
+    "subject": "¡Has Completado el Registro {{firstName}}! Empecemos 🔥",
+    "title": "Tu Registro Ahora Está Completo"
+  }
+}
+
+{
+  "FACv2-03-Account-Already-Exists": {
+    "greetings": "Hola {{firstName}},",
+    "body": "Hemos notado que has intentado registrarte con una dirección de correo electrónico que ya está en uso.</br> Como se indica en nuestros <a style=\"text-decoration: none;color: inherit\" target=\"_blank\" href=\"https://toptiertrader.com/terms-of-use/\"><b><u>Términos y Condiciones</u></b></a>, los usuarios solo pueden tener una cuenta. En el caso de que se encuentre un usuario con múltiples cuentas, cerraremos cualquier cuenta duplicada de inmediato.",
+    "cta": "Restablecer Contraseña",
+    "forgottenPassword": "¿Has olvidado tu contraseña?",
+    "forgottenPasswordBody": "Simplemente haz clic abajo y restablécela para recuperar el acceso a tu cuenta. Para restablecer tu contraseña con éxito, utiliza el correo electrónico al que has recibido este mensaje.",
+    "signature": "Mucho éxito 🔥",
+    "footer": {
+      "address": "8th The Green Ste A Dover, DE 19901",
+      "copyright": "2024 TopTier Funding LLC. Todos los derechos reservados.",
+      "disclaimer": "ACLARATORIA: El comercio de instrumentos financieros conlleva un riesgo sustancial de pérdida y no es adecuado para todos los inversores. La valoración de futuros, acciones y opciones puede fluctuar y, como resultado, los clientes pueden perder más de su inversión original. El impacto de eventos estacionales y geopolíticos ya está factorizado en los precios del mercado. La naturaleza altamente apalancada del comercio de futuros significa que pequeños movimientos del mercado tendrán un gran impacto en su cuenta de operaciones y esto puede jugar en su contra, llevando a grandes pérdidas o puede jugar a su favor, llevando a grandes ganancias.",
+      "unsubscribe": "haz clic aquí para cancelar tu suscripción",
+      "destination": "Este correo electrónico ha sido enviado a "
+    },
+    "subject": "Esta cuenta ya existe {{firstName}} 🚀",
+    "title": "Ya existe una cuenta con este correo electrónico"
+  }
+}
+
+
+{
+  "FACv2-04-Forgot-Password-Reset-Password": {
+    "greetings": "Hola {{firstName}},",
+    "body": "Hemos recibido tu solicitud para restablecer la contraseña de tu cuenta. Por favor, haz clic en \"Restablecer contraseña\" a continuación para continuar.</br>Si no hiciste esta solicitud, por favor contáctanos en <a style=\"color:inherit\" href=\"mailto:support@toptiertrader.com\"><b><u>support@toptiertrader.com.</u></b></a>",
+    "cta": "Restablecer Contraseña",
+    "signature": "Mucho éxito 🔥",
+    "footer": {
+      "address": "8th The Green Ste A Dover, DE 19901",
+      "copyright": "2024 TopTier Funding LLC. Todos los derechos reservados.",
+      "disclaimer": "ACLARATORIA: El comercio de instrumentos financieros conlleva un riesgo sustancial de pérdida y no es adecuado para todos los inversores. La valoración de futuros, acciones y opciones puede fluctuar y, como resultado, los clientes pueden perder más de su inversión original. El impacto de eventos estacionales y geopolíticos ya está factorizado en los precios del mercado. La naturaleza altamente apalancada del comercio de futuros significa que pequeños movimientos del mercado tendrán un gran impacto en su cuenta de operaciones y esto puede jugar en su contra, llevando a grandes pérdidas o puede jugar a su favor, llevando a grandes ganancias.",
+      "destination": "Este correo electrónico ha sido enviado a ",
+      "unsubscribe": "haz clic aquí para cancelar tu suscripción"
+    },
+    "subject": "Restablece la contraseña de tu Panel de TopTier Trader {{firstName}} 🚀",
+    "support": "Si no hiciste esta solicitud, por favor contáctanos de inmediato en ",
+    "title": "Restablece tu contraseña para recuperar tu cuenta"
+  }
+}
+
+{
+  "FACv2-05-Password-Changed-Notification": {
+    "greetings": "Hola {{firstName}},",
+    "body": "Tu contraseña ha sido actualizada. Ahora puedes iniciar sesión en tu panel y continuar tu challenge.",
+    "cta": "Acceder a Mi Panel",
+    "signature": "Mucho éxito 🔥",
+    "footer": {
+      "address": "8th The Green Ste A Dover, DE 19901",
+      "copyright": "2024 TopTier Funding LLC. Todos los derechos reservados.",
+      "disclaimer": "ACLARATORIA: El comercio de instrumentos financieros conlleva un riesgo sustancial de pérdida y no es adecuado para todos los inversores. La valoración de futuros, acciones y opciones puede fluctuar y, como resultado, los clientes pueden perder más de su inversión original. El impacto de eventos estacionales y geopolíticos ya está factorizado en los precios del mercado. La naturaleza altamente apalancada del comercio de futuros significa que pequeños movimientos del mercado tendrán un gran impacto en su cuenta de operaciones y esto puede jugar en su contra, llevando a grandes pérdidas o puede jugar a su favor, llevando a grandes ganancias.",
+      "destination": "Este correo electrónico ha sido enviado a ",
+      "unsubscribe": "haz clic aquí para cancelar tu suscripción"
+    },
+    "subject": "Tu contraseña ha sido actualizada exitosamente {{firstName}} 🚀",
+    "title": "Tu contraseña se restableció con éxito"
+  }
+}
+
+{
+  "FACv2-06-Forgot-MT-Password": {
+    "greetings": "Hola {{firstName}},",
+    "body": "Hemos recibido tu solicitud para restablecer la contraseña de tu cuenta MetaTrader. Para recuperar el acceso a tu cuenta, encuentra tu nueva contraseña a continuación:",
+    "support": "Si no hiciste esta solicitud, por favor contáctanos de inmediato en <a style=\"color:inherit;\" href=\"mailto:support@toptiertrader.com\"><b><u>support@toptiertrader.com</u></b></a>.",
+    "cta": "Acceder a Mi Panel",
+    "signature": "Mucho éxito 🔥",
+    "footer": {
+      "address": "8th The Green Ste A Dover, DE 19901",
+      "copyright": "2024 TopTier Funding LLC. Todos los derechos reservados.",
+      "disclaimer": "ACLARATORIA: El comercio de instrumentos financieros conlleva un riesgo sustancial de pérdida y no es adecuado para todos los inversores. La valoración de futuros, acciones y opciones puede fluctuar y, como resultado, los clientes pueden perder más de su inversión original. El impacto de eventos estacionales y geopolíticos ya está factorizado en los precios del mercado. La naturaleza altamente apalancada del comercio de futuros significa que pequeños movimientos del mercado tendrán un gran impacto en su cuenta de operaciones y esto puede jugar en su contra, llevando a grandes pérdidas o puede jugar a su favor, llevando a grandes ganancias.",
+      "destination": "Este correo electrónico ha sido enviado a ",
+      "unsubscribe": "haz clic aquí para cancelar tu suscripción"
+    },
+    "newPassword": "Nueva Contraseña:",
+    "subject": "Tu contraseña de MetaTrader ha sido actualizada {{firstName}} 🚀",
+    "title": "Hemos restablecido tu contraseña"
+  }
+}
+
+{
+  "FACv2-07-Order-Underpaid": {
+    "greetings": "Hola {{firstName}},",
+    "body": "Nos ponemos en contacto para confirmar que hemos recibido tu pago; sin embargo, no recibimos el monto completo para poder procesar tu pedido.",
+    "amountMessage": "Aún requerimos la siguiente cantidad:",
+    "addressMessage": " a ser enviada a la siguiente dirección de criptomonedas:",
+    "body2": "para completar tu pago.",
+    "benefits": "Desbloquea Beneficios de Primer Nivel",
+    "benefit1": "Mantén el 80% de Profit Share",
+    "benefit2": "Escala al 90% de Profit Share",
+    "benefit3": "Gráficos de TradingView",
+    "benefit4": "Soporte Profesional 24/7",
+    "cta": "Acceder a Mi Cuenta",
+    "signature": "Mucho éxito 🔥",
+    "footer": {
+      "address": "8th The Green Ste A Dover, DE 19901",
+      "copyright": "2024 TopTier Funding LLC. Todos los derechos reservados.",
+      "disclaimer": "ACLARATORIA: El comercio de instrumentos financieros conlleva un riesgo sustancial de pérdida y no es adecuado para todos los inversores. La valoración de futuros, acciones y opciones puede fluctuar y, como resultado, los clientes pueden perder más de su inversión original. El impacto de eventos estacionales y geopolíticos ya está factorizado en los precios del mercado. La naturaleza altamente apalancada del comercio de futuros significa que pequeños movimientos del mercado tendrán un gran impacto en su cuenta de operaciones y esto puede jugar en su contra, llevando a grandes pérdidas o puede jugar a su favor, llevando a grandes ganancias.",
+      "destination": "Este correo electrónico ha sido enviado a ",
+      "unsubscribe": "Haz clic aquí para cancelar tu suscripción"
+    },
+    "subtitle": "COMPLETA TU PAGO",
+    "title": "Para Comenzar Tu Challenge {{firstName}}",
+    "subject": "Completa Tu Pago para Comenzar Tu Challenge Financiado {{firstName}} 🌟"
+  }
+}
+
+{
+  "FACv2-08-Order-Completed": {
+    "greetings": "Hola {{firstName}},",
+    "body": "Tu pago fue exitoso 🔥 </br> Los detalles de tu pago son los siguientes: ",
+    "dateMessage": "Pago Completado:",
+    "countryMessage": "País de Compra:",
+    "productMessage": "Producto Comprado:",
+    "priceMessage": "Costo Final:",
+    "cta": "Comenzar Mi Challenge",
+    "signature": "Mucho éxito 🔥",
+    "footer": {
+      "address": "8th The Green Ste A Dover, DE 19901",
+      "copyright": "2024 TopTier Funding LLC. Todos los derechos reservados.",
+      "disclaimer": "ACLARATORIA: El comercio de instrumentos financieros conlleva un riesgo sustancial de pérdida y no es adecuado para todos los inversores. La valoración de futuros, acciones y opciones puede fluctuar y, como resultado, los clientes pueden perder más de su inversión original. El impacto de eventos estacionales y geopolíticos ya está factorizado en los precios del mercado. La naturaleza altamente apalancada del comercio de futuros significa que pequeños movimientos del mercado tendrán un gran impacto en su cuenta de operaciones y esto puede jugar en su contra, llevando a grandes pérdidas o puede jugar a su favor, llevando a grandes ganancias.",
+      "signature": "Este correo electrónico ha sido enviado a ",
+      "unsubscribe": "Haz clic aquí para cancelar tu suscripción"
+    },
+    "subject": "Tu pedido está completo. Comencemos tu Challenge {{firstName}} 🌟",
+    "subtitle": "GRACIAS POR TU PAGO",
+    "title": "Vamos a Comenzar Tu Challenge"
+  }
+}
+
+{
+  "FACv2-09-Challenge-End–Failed": {
+    "greetings": "Hola {{firstName}},",
+    "title": "Haz fallado tu Challenge",
+    "subtitle": "PERO NO TE RINDAS",
+    "body": "Lamentamos informarte que a pesar de tu gran esfuerzo por completar tu Challenge, no has tenido éxito. Estamos convencidos de que esto te motivará aún más a mejorar tu talento. La razón por la que no pasaste el Challenge es: {{reason}}</br>Recomendamos <a style=\"color:#3b53a7\" target=\"_blank\" href=\"https://app.toptiertrader.com/login\"><b><u>visitar tu Panel</u></b></a> para estudiar cualquier detalle que puedas haber pasado por alto, con el fin de refinar tus técnicas de trading y prepararte para tu próximo Challenge!",
+    "couponMessage": "Usa el Código: <b>DONTGIVEUP</b>",
+    "discountMessage": "PARA UN DESCUENTO DE <u>15%</u>",
+    "cta": "Empezar un Nuevo Challenge",
+    "signature": "Mucho éxito 🔥",
+    "subject": "Has fallado el Tier 1 pero no te rindas {{firstName}} 💪",
+    "footer": {
+      "address": "8th The Green Ste A Dover, DE 19901",
+      "copyright": "2024 TopTier Funding LLC. Todos los derechos reservados.",
+      "disclaimer": "ACLARATORIA: El comercio de instrumentos financieros conlleva un riesgo sustancial de pérdida y no es adecuado para todos los inversores. La valoración de futuros, acciones y opciones puede fluctuar y, como resultado, los clientes pueden perder más de su inversión original. El impacto de eventos estacionales y geopolíticos ya está factorizado en los precios del mercado. La naturaleza altamente apalancada del comercio de futuros significa que pequeños movimientos del mercado tendrán un gran impacto en su cuenta de operaciones y esto puede jugar en su contra, llevando a grandes pérdidas o puede jugar a su favor, llevando a grandes ganancias.",
+      "destination": "Este correo electrónico ha sido enviado a ",
+      "unsubscribe": "Haz clic aquí para cancelar tu suscripción"
+    }
+  }
+}
+
+{
+  "FACv2-10-Challenge-End–Success": {
+    "body": "Felicitaciones por completar el Tier 1 de tu Challenge, lo lograste 👏 </br> Ahora es momento de cumplir con los requisitos del Tier 2.",
+    "cta": "Comenzar Tier 2",
+    "title": "Lo Lograste {{firstName}}",
+    "subtitle": "VAMOS A COMENZAR EL TIER 2",
+    "greetings": "Hola {{firstName}},",
+    "subject": "Felicitaciones {{firstName}} Has Superado el Tier 1 🔥",
+    "signature": "Mucho éxito 🔥",
+    "footer": {
+      "address": "8th The Green Ste A Dover, DE 19901",
+      "copyright": "2024 TopTier Funding LLC. Todos los derechos reservados.",
+      "disclaimer": "ACLARATORIA: El comercio de instrumentos financieros conlleva un riesgo sustancial de pérdida y no es adecuado para todos los inversores. La valoración de futuros, acciones y opciones puede fluctuar y, como resultado, los clientes pueden perder más de su inversión original. El impacto de eventos estacionales y geopolíticos ya está factorizado en los precios del mercado. La naturaleza altamente apalancada del comercio de futuros significa que pequeños movimientos del mercado tendrán un gran impacto en su cuenta de operaciones y esto puede jugar en su contra, llevando a grandes pérdidas o puede jugar a su favor, llevando a grandes ganancias.",
+      "destination": "Este correo electrónico ha sido enviado a ",
+      "unsubscribe": "Haz clic aquí para cancelar tu suscripción"
+    }
+  }
+}
+
+{
+  "FACv2-11-Verification-Challenge-End–Failed": {
+    "greetings": "Hola {{firstName}},",
+    "title": "Haz Fallado tu Challenge",
+    "subtitle": "PERO NO TE RINDAS",
+    "body": "Lamentamos informarte que a pesar de tu gran esfuerzo por completar tu Challenge, no has tenido éxito. La razón por la que no pasaste el Challenge es: {{reason}}</br></br>Recomendamos <a style=\"color:#3b53a7\" target=\"_blank\" href=\"https://app.toptiertrader.com/login\"><b><u>visitar tu Panel</u></b></a> para estudiar cualquier detalle que puedas haber pasado por alto, con el fin de refinar tus técnicas de trading y prepararte para tu próximo Challenge!",
+    "couponMessage": "Usa el Código: <b>DONTGIVEUP</b>",
+    "discountMessage": "PARA UN DESCUENTO DE <u>15%</u>",
+    "cta": "Empezar un Nuevo Challenge",
+    "signature": "Mucho éxito 🔥",
+    "subject": "Haz Fallado tu Challenge {{firstName}}",
+    "footer": {
+      "address": "8th The Green Ste A Dover, DE 19901",
+      "copyright": "2024 TopTier Funding LLC. Todos los derechos reservados.",
+      "disclaimer": "ACLARATORIA: El comercio de instrumentos financieros conlleva un riesgo sustancial de pérdida y no es adecuado para todos los inversores. La valoración de futuros, acciones y opciones puede fluctuar y, como resultado, los clientes pueden perder más de su inversión original. El impacto de eventos estacionales y geopolíticos ya está factorizado en los precios del mercado. La naturaleza altamente apalancada del comercio de futuros significa que pequeños movimientos del mercado tendrán un gran impacto en su cuenta de operaciones y esto puede jugar en su contra, llevando a grandes pérdidas o puede jugar a su favor, llevando a grandes ganancias.",
+      "destination": "Este correo electrónico ha sido enviado a ",
+      "unsubscribe": "Haz clic aquí para cancelar tu suscripción"
+    }
+  }
+}
+
+{
+  "FACv2-12-Verification-Challenge-End-Success": {
+    "greetings": "Hola {{firstName}},",
+    "body": "Felicitaciones por completar el Tier 2 de tu Challenge, lo lograste 👏</br> Haz demostrado ser uno de los mejores de TopTier.",
+    "whatsNext": "¿Qué sigue?",
+    "confirmDetails": "Para obtener financiamiento, debes confirmar tus datos personales.",
+    "verify": "Por favor, haz clic aquí para verificar tu identidad",
+    "contact": "Nuestro equipo ahora analizará cuidadosamente tu progreso y se pondrá en contacto contigo lo antes posible con los próximos pasos.",
+    "benefits": "Nuestros Traders Financiados Pueden Tener:",
+    "benefit1": "80/20 Profit Split",
+    "benefit2": "Plan de Escalado hasta el 90%",
+    "signature": "Mucho éxito 🔥",
+    "cta": "Verificar tu Identidad",
+    "footer": {
+      "address": "8th The Green Ste A Dover, DE 19901",
+      "copyright": "2024 TopTier Funding LLC. Todos los derechos reservados.",
+      "disclaimer": "ACLARATORIA: El comercio de instrumentos financieros conlleva un riesgo sustancial de pérdida y no es adecuado para todos los inversores. La valoración de futuros, acciones y opciones puede fluctuar y, como resultado, los clientes pueden perder más de su inversión original. El impacto de eventos estacionales y geopolíticos ya está factorizado en los precios del mercado. La naturaleza altamente apalancada del comercio de futuros significa que pequeños movimientos del mercado tendrán un gran impacto en su cuenta de operaciones y esto puede jugar en su contra, llevando a grandes pérdidas o puede jugar a su favor, llevando a grandes ganancias.",
+      "destination": "Este correo electrónico ha sido enviado a ",
+      "unsubscribe": "Haz clic aquí para cancelar tu suscripción"
+    },
+    "subject": "Felicitaciones {{firstName}} Has Superado el Tier 2 🌟",
+    "title": "Lo Lograste {{firstName}}",
+    "subtitle": "EL NIVEL 2 ESTÁ COMPLETO"
+  }
+}
+
+{
+  "FACv2-13-Challenge-Stage1-MT-Created": {
+    "greetings": "Hola {{firstName}},",
+    "body": "Tu pedido ha sido procesado y el periodo del Challenge ha comenzado. ¡Ahora es el momento de poner a prueba tus habilidades de trading! </br> Estamos encantados de que te hayas demostrado como uno de los mejores de TopTier.",
+    "metaDownloadMessage": {
+      "mt4": "El primer paso para comenzar es descargar MetaTrader 4 desde nuestro",
+      "mt5": "El primer paso para comenzar es descargar MetaTrader 5 desde nuestro"
+    },
+    "partnerBrokerMessage": "Broker Asociado ThinkMarkets",
+    "accountDetails": {
+      "title": {
+        "mt5": "Credenciales de MT5",
+        "mt4": "Credenciales de MT4"
+      },
+      "body": "A continuación, encontrarás tus detalles únicos para MT para que puedas comenzar este emocionante viaje de inmediato.",
+      "login": "Usuario:",
+      "password": "Contraseña del Trader:",
+      "investorPassword": "Contraseña del Inversor:",
+      "serverName": "Nombre del Servidor:"
+    },
+    "cta": "Acceder a Mi Panel",
+    "signature": "Mucho éxito 🔥",
+    "footer": {
+      "address": "8th The Green Ste A Dover, DE 19901",
+      "copyright": "2024 TopTier Funding LLC. Todos los derechos reservados.",
+      "disclaimer": "ACLARATORIA: El comercio de instrumentos financieros conlleva un riesgo sustancial de pérdida y no es adecuado para todos los inversores. La valoración de futuros, acciones y opciones puede fluctuar y, como resultado, los clientes pueden perder más de su inversión original. El impacto de eventos estacionales y geopolíticos ya está factorizado en los precios del mercado. La naturaleza altamente apalancada del comercio de futuros significa que pequeños movimientos del mercado tendrán un gran impacto en su cuenta de operaciones y esto puede jugar en su contra, llevando a grandes pérdidas o puede jugar a su favor, llevando a grandes ganancias.",
+      "destination": "Este correo electrónico ha sido enviado a ",
+      "unsubscribe": "Haz clic aquí para cancelar tu suscripción"
+    },
+    "title": "Tu cuenta de MT está lista",
+    "subtitle": "VAMOS A COMENZAR TU CHALLENGE",
+    "subject": "Es Hora de Comenzar Tu Challenge Financiado {{firstName}} 🔥"
+  }
+}
+
+{
+  "FACv2-14-Challenge-Stage2-MT-Created": {
+    "subject": "Tu cuenta de MetaTrader para el Nivel 2 está lista {{firstName}} 💪",
+    "title": "Felicitaciones Has Superado el Nivel 1 de Tu Challenge",
+    "subtitle": "TUS DETALLES DE MT PARA EL NIVEL 2 ESTÁN LISTOS",
+    "body": "Has pasado con éxito el Nivel 1 y estás listo para conquistar el segundo. Comienza utilizando tus detalles únicos a continuación.",
+    "greetings": "Hola {{firstName}},",
+    "accountDetails": {
+      "title": {
+        "mt4": "Credenciales de MT4",
+        "mt5": "Credenciales de MT5"
+      },
+      "body": "A continuación, encontrarás tus detalles únicos para MT para que puedas comenzar este emocionante viaje de inmediato.",
+      "login": "Usuario:",
+      "password": "Contraseña del Trader:",
+      "investorPassword": "Contraseña del Inversor:",
+      "serverName": "Nombre del Servidor:"
+    },
+    "cta": "Acceder a Mi Panel",
+    "signature": "Mucho éxito 🔥",
+    "footer": {
+      "address": "8th The Green Ste A Dover, DE 19901",
+      "copyright": "2024 TopTier Funding LLC. Todos los derechos reservados.",
+      "disclaimer": "ACLARATORIA: El comercio de instrumentos financieros conlleva un riesgo sustancial de pérdida y no es adecuado para todos los inversores. La valoración de futuros, acciones y opciones puede fluctuar y, como resultado, los clientes pueden perder más de su inversión original. El impacto de eventos estacionales y geopolíticos ya está factorizado en los precios del mercado. La naturaleza altamente apalancada del comercio de futuros significa que pequeños movimientos del mercado tendrán un gran impacto en su cuenta de operaciones y esto puede jugar en su contra, llevando a grandes pérdidas o puede jugar a su favor, llevando a grandes ganancias.",
+      "destination": "Este correo electrónico ha sido enviado a ",
+      "unsubscribe": "Haz clic aquí para cancelar tu suscripción"
+    }
+  }
+}
+
+{
+  "FACv2-14-2-Challenge-Stage2-TradeLocker-Created": {
+    "subject": "Tus credenciales de TradeLocker para la Etapa 2 están listas 🌟",
+    "greetings": "Hola {{firstName}}",
+    "body": "Has superado la etapa 1 y estamos bastante seguros de que puedes hacer lo mismo en la etapa 2! Usa tus",
+    "tradeLockerLinkMessage": "TradeLocker",
+    "body2": "credenciales a continuación y comienza.",
+    "credentials": {
+      "title": "Credenciales de TradeLocker",
+      "body": "A continuación, encontrarás tus detalles únicos de inicio de sesión para TradeLocker para que puedas comenzar este emocionante viaje de inmediato.",
+      "login": "Usuario:",
+      "serverName": "Nombre del Servidor:",
+      "password": "Contraseña del Trader:"
+    },
+    "cta": "Acceder a Mi Cuenta",
+    "body3": "Estamos emocionados de verte enfrentar los mercados con una nueva perspectiva.",
+    "signature": "Todo lo mejor 🔥",
+    "footer": {
+      "contact": {
+        "email": "Ponte en contacto",
+        "pre": "o chatea con nosotros a través del",
+        "live": "chat en vivo",
+        "post": "para cualquier consulta grande o pequeña, nuestro equipo de soporte está aquí 24/7."
+      },
+      "signature": "Todo lo mejor 🔥"
+    }
+  }
+}
+
+{
+  "FACv2-14-Challenge-Stage2-MT-Created": {
+    "subject": "Tu cuenta de MetaTrader para el Nivel 2 está lista {{firstName}} 💪",
+    "title": "Felicitaciones Has Superado el Nivel 1 de Tu Challenge",
+    "subtitle": "TUS DETALLES DE MT PARA EL NIVEL 2 ESTÁN LISTOS",
+    "body": "Has pasado con éxito el Nivel 1 y estás listo para conquistar el segundo. Comienza utilizando tus detalles únicos a continuación.",
+    "greetings": "Hola {{firstName}},",
+    "accountDetails": {
+      "title": {
+        "mt4": "Credenciales de MT4",
+        "mt5": "Credenciales de MT5"
+      },
+      "body": "A continuación, encontrarás tus detalles únicos para MT para que puedas comenzar este emocionante viaje de inmediato.",
+      "login": "Usuario:",
+      "password": "Contraseña del Trader:",
+      "investorPassword": "Contraseña del Inversor:",
+      "serverName": "Nombre del Servidor:"
+    },
+    "cta": "Acceder a Mi Panel",
+    "signature": "Mucho éxito 🔥",
+    "footer": {
+      "address": "8th The Green Ste A Dover, DE 19901",
+      "copyright": "2024 TopTier Funding LLC. Todos los derechos reservados.",
+      "disclaimer": "ACLARATORIA: El comercio de instrumentos financieros conlleva un riesgo sustancial de pérdida y no es adecuado para todos los inversores. La valoración de futuros, acciones y opciones puede fluctuar y, como resultado, los clientes pueden perder más de su inversión original. El impacto de eventos estacionales y geopolíticos ya está factorizado en los precios del mercado. La naturaleza altamente apalancada del comercio de futuros significa que pequeños movimientos del mercado tendrán un gran impacto en su cuenta de operaciones y esto puede jugar en su contra, llevando a grandes pérdidas o puede jugar a su favor, llevando a grandes ganancias.",
+      "destination": "Este correo electrónico ha sido enviado a ",
+      "unsubscribe": "Haz clic aquí para cancelar tu suscripción"
+    }
+  }
+}
+
+{
+  "FACv2-15-Free-Challenge-Granted": {
+    "greetings": "Hola {{firstName}}",
+    "body": "Estamos encantados de que hayas decidido participar en el Challenge Financiado de {{brand}} 🌟 Te estamos dando un <b>CHALLENGE GRATIS</b> para que puedas probar lo excelente que es nuestro producto.</br> Es hora de mostrarnos lo que tienes 🚀 ",
+    "cta": "Comenzar Mi Challenge",
+    "benefits": "Por Qué Nuestro Challenge es de Primer Nivel",
+    "benefit1": "Supera cualquiera de nuestros challenges con objetivos realistas",
+    "benefit2": "Todas tus necesidades financiadas en un panel fácil de usar",
+    "benefit3": "Soporte 24/7 para ayudarte a lograr resultados reales",
+    "benefit4": "Escala tu profit share del 80% al 90%",
+    "footer": {
+      "contact": {
+        "email": "Ponte en contacto",
+        "pre": "o chatea con nosotros a través del",
+        "live": "chat en vivo",
+        "post": "para cualquier consulta grande o pequeña, nuestro equipo de soporte está aquí 24/7."
+      },
+      "signature": "Todo lo mejor 🔥"
+    },
+    "title": "Estás Listo para Enfrentar el Desafío Definitivo {{firstName}}",
+    "subject": "Te Acabamos de Dar un Challenge Financiado GRATIS {{firstName}} 🚀",
+    "signature": "Mucho éxito - <b>{{brand}}</b> 🔥"
+  }
+}
+
+{
+  "FACv2-16-Challenge-Time-Extension": {
+    "subject": "Has Añadido Tiempo a Tu Challenge Financiado {{firstName}} 🔥",
+    "title": "Has Extendido Exitosamente el Tiempo de Tu Challenge {{firstName}}",
+    "greetings": "Hola {{firstName}}",
+    "body": "Has elegido añadir tiempo a tu challenge actual, nos complace informarte que esto se ha añadido exitosamente.</br>Mucho éxito",
+    "footer": {
+      "contact": {
+        "email": "Ponte en contacto",
+        "pre": "o chatea con nosotros a través del",
+        "live": "chat en vivo",
+        "post": "para cualquier consulta grande o pequeña, nuestro equipo de soporte está aquí 24/7."
+      },
+      "signature": "Todo lo mejor 🔥"
+    }
+  }
+}
+
+{
+  "FACv2-17-In-Progress-Comp-Sign-Up": {
+    "title": "Estás Listo para Competir en el Nivel Superior",
+    "greetings": "Hola {{firstName}}",
+    "body": "Te has inscrito en nuestra última competencia, y prometemos que no te decepcionará. Grandes premios y la adrenalina de los mercados financieros son solo algunas de las cosas que puedes disfrutar.</br>¡Gana tu lugar en nuestro <a style=\"color: inherit;\" target=\"_blank\" href=\"https://app.toptiertrader.com/leaderboard\"><b><u>tabla de clasificación</u></b></a> ahora!",
+    "cta": "Comenzar",
+    "learnMore": "¿Quieres saber más información? <a style=\"color: inherit;\" target=\"_blank\" href=\"https://app.toptiertrader.com/competitions-overview\"><b><u>Aprende más aquí.</u></b></a>",
+    "signature": "Todo lo mejor 🔥",
+    "footer": {
+      "contact": {
+        "email": "Ponte en contacto",
+        "pre": "o chatea con nosotros a través del",
+        "live": "chat en vivo",
+        "post": "para cualquier consulta grande o pequeña, nuestro equipo de soporte está aquí 24/7."
+      },
+      "signature": "Todo lo mejor 🔥"
+    },
+    "subject": "Estás Listo para Unirte a Nuestras Filas en Nuestra Competencia {{firstName}} 💪"
+  }
+}
+
+{
+  "FACv2-18-Comp-Sign-Up-Success": {
+    "title": "Estás Listo para Competir en el Nivel Superior",
+    "greetings": "Hola {{firstName}}",
+    "body": "Te has inscrito en nuestra próxima competencia, y prometemos que no te decepcionará. Grandes premios y la adrenalina de los mercados financieros son solo algunas de las cosas que puedes disfrutar.</br> ¿Quieres saber más? Haz clic en aprender más para obtener toda la información que necesitas.",
+    "cta": "Aprender Más",
+    "signature": "Todo lo mejor 🔥",
+    "footer": {
+      "contact": {
+        "email": "Ponte en contacto",
+        "pre": "o chatea con nosotros a través del",
+        "live": "chat en vivo",
+        "post": "para cualquier consulta grande o pequeña, nuestro equipo de soporte está aquí 24/7."
+      },
+      "signature": "Todo lo mejor 🔥"
+    },
+    "subject": "Te Has Inscrito Exitosamente en Nuestra Próxima Competencia 💪"
+  }
+}
+
+{
+  "FACv2-19-Comp-Start": {
+    "title": "Nuestra Última Competencia Ha Comenzado",
+    "greetings": "Hola {{firstName}}",
+    "body": "¡Las cosas están a punto de calentarse! Nuestra última competencia está en marcha y no podríamos estar más emocionados de ver a los traders unirse a nuestras filas.</br></br> Mantén tu ojo en nuestra <a style=\"color:inherit;\" target=\"_blank\" href=\"https://app.toptiertrader.com/leaderboard\"><b><u>tabla de clasificación</u></b></a> y esfuérzate por convertirte en un Trader de Nivel Superior 👀",
+    "cta": "Vamos a Competir",
+    "signature": "Todo lo mejor 🔥",
+    "footer": {
+      "contact": {
+        "email": "Ponte en contacto",
+        "pre": "o chatea con nosotros a través del",
+        "live": "chat en vivo",
+        "post": "para cualquier consulta grande o pequeña, nuestro equipo de soporte está aquí 24/7."
+      },
+      "signature": "Todo lo mejor🔥"
+    },
+    "subject": "Nuestra Última Competencia Ha Comenzado 🔥"
+  }
+}
+
+{
+  "FACv2-20-2-Comp-TradeLocker-Created": {
+    "title": "Tu Cuenta de Competencia en TradeLocker está Lista",
+    "greetings": "Hola {{firstName}}",
+    "body": "Estás listo para competir en nuestra última competencia y poner a prueba tus habilidades de trading, y qué mejor manera de hacerlo que con la herramienta definitiva de trading, <a style=\"color:inherit;\" target=\"_blank\" href=\"{{tradeLockerLink}}\"><b><u>TradeLocker</u></b>.</a> ",
+    "accountDetails": {
+      "login": "Usuario:",
+      "password": "Contraseña del Trader:",
+      "serverName": "Nombre del Servidor:",
+      "title": "Credenciales de TradeLocker",
+      "body": "A continuación, encontrarás tus detalles únicos de inicio de sesión para TradeLocker para que puedas comenzar este emocionante viaje de inmediato."
+    },
+    "cta": "Empezar a Competir",
+    "body2": "Estamos emocionados de verte enfrentar los mercados con una nueva perspectiva.",
+    "signature": "Todo lo mejor 🔥",
+    "footer": {
+      "contact": {
+        "email": "Ponte en contacto",
+        "pre": "o chatea con nosotros a través del",
+        "live": "chat en vivo",
+        "post": "para cualquier consulta grande o pequeña, nuestro equipo de soporte está aquí 24/7."
+      },
+      "signature": "Todo lo mejor 🔥"
+    },
+    "subject": "Tu Cuenta de Competencia en TradeLocker está Lista {{firstName}} 🔥"
+  }
+}
+
+{
+  "FACv2-20-Comp-MT-Created": {
+    "title": "Tu Cuenta de Competencia en MetaTrader está Lista",
+    "greetings": "Hola {{firstName}}",
+    "body": "Estás listo para competir en nuestra última competencia y poner a prueba tus habilidades de trading.",
+    "metaDownloadMessage": "El primer paso para comenzar es descargar MetaTrader desde nuestro",
+    "partnerBrookerMessage": "Broker Asociado ThinkMarkets",
+    "accountDetails": {
+      "body": "A continuación, encontrarás tus detalles únicos de inicio de sesión para MetaTrader para que puedas comenzar este emocionante viaje de inmediato.",
+      "investorPassword": "Contraseña del Inversor:",
+      "login": "Usuario:",
+      "password": "Contraseña del Trader:",
+      "serverName": "Nombre del Servidor: ",
+      "title": {
+        "mt4": "Credenciales de MetaTrader 4",
+        "mt5": "Credenciales de MetaTrader 5"
+      }
+    },
+    "cta": "Acceder a Mi Panel",
+    "body2": "Estamos emocionados de verte enfrentar los mercados con una nueva perspectiva.",
+    "signature": "Todo lo mejor 🔥",
+    "footer": {
+      "contact": {
+        "email": "Ponte en contacto",
+        "pre": "o chatea con nosotros a través del",
+        "live": "chat en vivo",
+        "post": "para cualquier consulta grande o pequeña, nuestro equipo de soporte está aquí 24/7."
+      },
+      "signature": "Todo lo mejor 🔥"
+    },
+    "subject": "Tu Cuenta de Competencia en MetaTrader está Lista {{firstName}}"
+  }
+}
+
+{
+  "FACv2-21-Comp-Failed": {
+    "title": "Mala Suerte en Nuestra Última Competencia",
+    "greetings": "Hola {{firstName}}",
+    "subject": "Mala Suerte, Esta Competencia No Era para Ti {{firstName}} 🚀",
+    "body": "Esta competencia no era para ti, pero hay más de donde vino esa. Nuestra próxima competencia es antes de lo que piensas.</br> Mantente al día con todas nuestras competencias pasadas y futuras en nuestra página de competencias.",
+    "cta": "Mantente Actualizado",
+    "signature": "Todo lo mejor 🔥",
+    "footer": {
+      "contact": {
+        "email": "Ponte en contacto",
+        "pre": "o chatea con nosotros a través del",
+        "live": "chat en vivo",
+        "post": "para cualquier consulta grande o pequeña, nuestro equipo de soporte está aquí 24/7."
+      },
+      "signature": "Todo lo mejor 🔥"
+    }
+  }
+}
+
+{
+  "FACv2-22-Comp-Ended": {
+    "title": "Nuestra Última Competencia Ha Terminado",
+    "greetings": "Hola {{firstName}}",
+    "body": "¡Todas las cosas buenas deben llegar a su fin! ¡Gracias por participar en nuestra última competencia!</br> Revisa nuestra <a style=\"color:inherit;\" target=\"_blank\" href=\"https://leaderboard.toptiertrader.com/\"><b><u>tabla de clasificación</u></b></a> para ver a nuestros 10 mejores traders 👀 y mantente actualizado sobre nuestro próximo gran evento, para que puedas mostrar tus habilidades una vez más.",
+    "cta": "Mantente Actualizado",
+    "signature": "Todo lo mejor 🔥",
+    "footer": {
+      "contact": {
+        "email": "Ponte en contacto",
+        "pre": "o chatea con nosotros a través del",
+        "live": "chat en vivo",
+        "post": "para cualquier consulta grande o pequeña, nuestro equipo de soporte está aquí 24/7."
+      },
+      "signature": "Todo lo mejor 🔥"
+    },
+    "subject": "Nuestra Última Competencia Ha Terminado {{firstName}} 🔥"
+  }
+}
+
+{
+  "FACv2-23-Affiliate-Payout-Processed": {
+    "title": "Tu Pago de Afiliado Está en Camino",
+    "greetings": "Hola {{firstName}}",
+    "body": "Nos enorgullecemos de realizar pagos rápidos y recompensar el trabajo de nuestros afiliados. Nos complace informarte que <b>{{amount}}</b> será transferido a la siguiente dirección BTC <b>{{btcAddress}}</b> 🌟</br> Gracias nuevamente por difundir la buena palabra sobre nosotros 🚀",
+    "signature": "Esperamos verte pronto 🔥",
+    "footer": {
+      "contact": {
+        "pre": "Para cualquier consulta grande o pequeña, nuestro equipo de soporte está aquí 24/7.",
+        "email": "Contáctanos",
+        "post": "o utiliza nuestro chat en vivo en nuestra",
+        "live": "página web"
+      },
+      "destination": "Este correo electrónico ha sido enviado a",
+      "unsubscribe": "Haz clic aquí para cancelar tu suscripción",
+      "signature": "Todo lo mejor 🔥"
+    },
+    "subject": "Tu Pago de Afiliado Está en Camino {{firstName}} 🔥"
+  }
+}
+
+{
+  "FACv2-24-Payout-Request-Received": {
+    "title": "Tu Solicitud de Pago Está en Revisión",
+    "greetings": "Hola {{firstName}}",
+    "body": "Te escribimos para informarte que hemos recibido tu solicitud de pago y trabajaremos en procesarla lo antes posible 🚀",
+    "payoutDetails": {
+      "title": "Detalles del Pago",
+      "method": "Método de Pago:",
+      "amount": "Monto del Pago:",
+      "information": "Información del Pago:"
+    },
+    "signature": "Todo lo mejor 🔥",
+    "footer": {
+      "contact": {
+        "email": "Ponte en contacto",
+        "pre": "o chatea con nosotros a través del",
+        "live": "chat en vivo",
+        "post": "para cualquier consulta grande o pequeña, nuestro equipo de soporte está aquí 24/7."
+      },
+      "signature": "Todo lo mejor 🔥"
+    },
+    "subject": "Tu Solicitud de Pago Está en Revisión {{firstName}} 🌟"
+  }
+}
+
+{
+  "FACv2-25-Payout-Request-Rejected": {
+    "title": "Tu Solicitud de Pago No Fue Exitosa",
+    "greetings": "Hola {{firstName}}",
+    "body": "Lamentamos informarte que tu solicitud de pago no ha sido exitosa.</br> La razón de esto es la siguiente:",
+    "cta": "Ir al Panel",
+    "signature": "Todo lo mejor 🔥",
+    "footer": {
+      "contact": {
+        "email": "Ponte en contacto",
+        "pre": "o chatea con nosotros a través del",
+        "live": "chat en vivo",
+        "post": "para cualquier consulta grande o pequeña, nuestro equipo de soporte está aquí 24/7."
+      },
+      "signature": "Todo lo mejor 🔥"
+    },
+    "subject": "¡Lo Sentimos! Tu Solicitud de Pago Fue Denegada {{firstName}}✍"
+  }
+}
+
+{
+  "FACv2-26-Payout-Request-Approved": {
+    "title": "Tu Solicitud de Pago Fue Aprobada",
+    "greetings": "Hola {{firstName}}",
+    "body": "Nos complace informarte que tu solicitud de pago ha sido aprobada. Procesaremos esto lo antes posible 🚀",
+    "cta": "Ir al Panel",
+    "signature": "Todo lo mejor 🔥&nbsp;",
+    "footer": {
+      "contact": {
+        "email": "Ponte en contacto",
+        "pre": "o chatea con nosotros a través del",
+        "live": "chat en vivo",
+        "post": "para cualquier consulta grande o pequeña, nuestro equipo de soporte está aquí 24/7."
+      },
+      "signature": "Todo lo mejor 🔥"
+    },
+    "subject": "Tu Solicitud de Pago Ha Sido Aprobada {{firstName}} 🌟"
+  }
+}
+
+{
+  "FACv2-27-Payout-Request-Processed": {
+    "title": "Tu Pago Ha Sido Completamente Procesado",
+    "greetings": "Hola {{firstName}}",
+    "body": "Te escribimos para informarte que tu reciente solicitud de pago ha sido completamente procesada. Gracias nuevamente por tu continua confianza en {{brand}}.",
+    "cta": "Ir al Panel",
+    "signature": "Todo lo mejor 🔥",
+    "footer": {
+      "contact": {
+        "email": "Ponte en contacto",
+        "pre": "o chatea con nosotros a través del",
+        "live": "chat en vivo",
+        "post": "para cualquier consulta grande o pequeña, nuestro equipo de soporte está aquí 24/7."
+      },
+      "signature": "Todo lo mejor 🔥"
+    },
+    "subject": "Tu Pago Ha Sido Completamente Procesado {{firstName}} 🌟"
+  }
+}
+
+{
+  "FACv2-28-Payout-Address-Changed": {
+    "title": "Tu Dirección de Pago Ha Sido Actualizada",
+    "greetings": "Hola {{firstName}}",
+    "body": "Hemos recibido una solicitud para cambiar tus detalles de pago, y nos gustaría informarte que esto ha sido completado!</br>¿No realizaste esta solicitud?</br> Por favor contáctanos inmediatamente en <a style=\"color:inherit;\" href=\"mailto:support@toptiertrader.com\"><b><u>support@toptiertrader.com.</u></b></a>",
+    "signature": "Todo lo mejor 🔥",
+    "footer": {
+      "contact": {
+        "email": "Ponte en contacto",
+        "pre": "o chatea con nosotros a través del",
+        "live": "chat en vivo",
+        "post": "para cualquier consulta grande o pequeña, nuestro equipo de soporte está aquí 24/7."
+      },
+      "signature": "Todo lo mejor 🔥"
+    },
+    "subject": "Tienes Comisiones en Camino {{firstName}} 🔥"
+  }
+}
+
+{
+  "FACv2-29-Missing-Payout-Method": {
+    "title": "Actualiza Tu Método de Pago para Recibir Tus Comisiones",
+    "greetings": "Hola {{firstName}}",
+    "subject": "Actualiza Tu Método de Pago para Recibir Tus Comisiones {{firstName}} 🚀",
+    "body": "Nos comunicamos para informarte que tienes comisiones para cobrar de nosotros. Para pagarte estas merecidas comisiones, necesitamos que actualices el método de pago en tu cuenta",
+    "how": "¿Cómo?",
+    "body2": "Simplemente inicia sesión en tu cuenta y elige el método de pago con el que deseas proceder de nuestra lista de opciones. Si tienes alguna consulta, no dudes en comunicarte con nosotros en",
+    "cta": "Acceder a Mi Panel",
+    "signature": "Todo lo mejor 🔥",
+    "footer": {
+      "contact": {
+        "email": "Ponte en contacto",
+        "pre": "o chatea con nosotros a través del",
+        "live": "chat en vivo",
+        "post": "para cualquier consulta grande o pequeña, nuestro equipo de soporte está aquí 24/7."
+      },
+      "signature": "Todo lo mejor 🔥"
+    }
+  }
+}
+
+{
+  "FACv2-30-Instant-Funded-Account-Purchased": {
+    "title": "Gracias por Tu Pedido. Estás Listo para Operar en Tu Cuenta Financiada",
+    "greetings": "Hola {{firstName}}",
+    "body": "Tu pago para una Cuenta Financiada Instantánea fue exitoso 🔥 Los detalles de tu pago son los siguientes:",
+    "paymentInfo": {
+      "purchaseDate": "Pago Completado el:",
+      "country": "País de Compra:",
+      "productName": "Producto Comprado:",
+      "purchaseAmountTotal": "Costo Final:"
+    },
+    "cta": "Comenzar a Operar",
+    "footer": {
+      "contact": {
+        "email": "Ponte en contacto",
+        "pre": "o chatea con nosotros a través del",
+        "live": "chat en vivo",
+        "post": "para cualquier consulta grande o pequeña, nuestro equipo de soporte está aquí 24/7."
+      },
+      "signature": "Todo lo mejor 🔥"
+    },
+    "subject": "Tu Cuenta Financiada Instantánea Está Lista {{firstName}} 🔥"
+  }
+}
+
+{
+  "FACv2-31-Instant-Funded-MT-Created": {
+    "title": "Tu Cuenta MetaTrader Está Lista para Tu Cuenta Financiada",
+    "greetings": "Hola {{firstName}}",
+    "body": "Ahora que has pasado tu challenge, estás listo para tomar tu Cuenta Financiada.",
+    "accountDetails": {
+      "investorPassword": "Contraseña del Inversor:",
+      "login": "Usuario:",
+      "password": "Contraseña del Trader:",
+      "serverName": "Nombre del Servidor:",
+      "title": {
+        "mt4": "Credenciales de MetaTrader 4",
+        "mt5": "Credenciales de MetaTrader 5"
+      },
+      "body": "A continuación, encontrarás tus detalles únicos de inicio de sesión para MetaTrader para que puedas comenzar este emocionante viaje de inmediato."
+    },
+    "cta": "Comenzar a Competir",
+    "signature": "Todo lo mejor 🔥&nbsp;",
+    "footer": {
+      "contact": {
+        "email": "Ponte en contacto",
+        "pre": "o chatea con nosotros a través del",
+        "live": "chat en vivo",
+        "post": "para cualquier consulta grande o pequeña, nuestro equipo de soporte está aquí 24/7."
+      },
+      "signature": "Todo lo mejor 🔥"
+    },
+    "subject": "Es Hora de Operar Con Nuestro Capital {{firstName}} 🔥"
+  }
+}
+
+{
+  "FACv2-32-Funded-Account-Failed": {
+    "title": "Mala Suerte con Tu Cuenta Financiada",
+    "greetings": "Hola {{firstName}}",
+    "body": "Lamentamos informarte que tu viaje financiado ha llegado a su fin, ya que no has cumplido con los criterios necesarios para la Cuenta Financiada. La razón por la que no pasaste el Challenge es: {{reason}}</br> Después de una actuación tan épica durante las 2 etapas de tu challenge, demostraste que tienes lo que se necesita para ser un Trader de TopTier. </br></br> ¿Por qué no intentarlo de nuevo? Sabemos que lo tienes en ti 🌟",
+    "cta": "Intenta Otro Challenge",
+    "signature": "Todo lo mejor 🔥",
+    "footer": {
+      "contact": {
+        "email": "Ponte en contacto",
+        "pre": "o chatea con nosotros a través del",
+        "live": "chat en vivo",
+        "post": "para cualquier consulta grande o pequeña, nuestro equipo de soporte está aquí 24/7."
+      },
+      "signature": "Todo lo mejor 🔥"
+    },
+    "subject": "Mala Suerte con Tu Cuenta Financiada {{firstName}}"
+  }
+}
+
+{
+  "FACv2-36-Funded-Account-Granted": {
+    "title": "Estás Listo para Operar con Nuestro Capital en una Cuenta Financiada",
+    "greetings": "Hola {{firstName}}",
+    "body": "Nos complace informarte que te estamos otorgando tu merecida cuenta financiada 🌟",
+    "accountDetails": {
+      "investorPassword": "Contraseña del Inversor:",
+      "login": "Usuario:",
+      "password": "Contraseña del Trader:",
+      "serverName": "Nombre del Servidor:",
+      "title": {
+        "mt4": "Credenciales de MetaTrader 4",
+        "mt5": "Credenciales de MetaTrader 5"
+      },
+      "body": "Usa las credenciales a continuación para iniciar sesión en tu cuenta de MetaTrader y comenzar tu viaje como un Trader de TopTier."
+    },
+    "cta": "Acceder a Mi Panel",
+    "body2": "Estamos emocionados de verte enfrentar los mercados con una nueva perspectiva.",
+    "signature": "Todo lo mejor 🔥",
+    "footer": {
+      "contact": {
+        "email": "Ponte en contacto",
+        "pre": "o chatea con nosotros a través del",
+        "live": "chat en vivo",
+        "post": "para cualquier consulta grande o pequeña, nuestro equipo de soporte está aquí 24/7."
+      },
+      "signature": "Todo lo mejor 🔥"
+    },
+    "subject": "Tu Cuenta Financiada de TopTier Está Lista {{firstName}} 💪"
+  }
+}
+
+{
+  "FACv2-37-Stage1-TradeLocker-Account-Created": {
+    "title": "Tu Cuenta de TradeLocker Está Lista - Vamos a Comenzar Tu Challenge",
+    "greetings": "¡Hola {{firstName}}!",
+    "body": "Tu pedido ha sido procesado y tu challenge te está esperando.<br>Tu periodo de challenge comenzará una vez que abras tu primera operación. ¡Ahora es el momento de poner a prueba tus habilidades de trading!",
+    "accountDetails": {
+      "title": "Credenciales de TradeLocker",
+      "body": "A continuación, encontrarás tus detalles únicos de inicio de sesión para TradeLocker para que puedas comenzar este emocionante viaje de inmediato.",
+      "cta": "Ir a TradeLocker",
+      "login": "Usuario:",
+      "password": "Contraseña del Trader:",
+      "serverName": "Nombre del Servidor:"
+    },
+    "cta": "Acceder a Mi Cuenta",
+    "body2": "Estamos emocionados de verte enfrentar los mercados con una nueva perspectiva.",
+    "signature": "Todo lo mejor 🔥",
+    "footer": {
+      "contact": {
+        "email": "Ponte en contacto",
+        "pre": "o chatea con nosotros a través del",
+        "live": "chat en vivo",
+        "post": "para cualquier consulta grande o pequeña, nuestro equipo de soporte está aquí 24/7."
+      },
+      "signature": "Todo lo mejor 🔥"
+    },
+    "subject": "Tu Cuenta de TradeLocker Está Lista {{firstName}} 🌟"
+  }
+}
+
+{
+  "FACv2-42-Banned-User": {
+    "greetings": "Hola {{firstName}},",
+    "body": "Te escribimos para informarte que tu cuenta ha sido terminada. Lamentamos verte partir, pero te damos la bienvenida en cualquier momento.</br> Si deseas crear una nueva cuenta, regístrate de nuevo a continuación.",
+    "cta": "Crear Nueva Cuenta",
+    "signature": "Mucho éxito 🔥",
+    "footer": {
+      "address": "8th The Green Ste A Dover, DE 19901",
+      "copyright": "2024 TopTier Funding LLC. Todos los derechos reservados.",
+      "disclaimer": "ACLARATORIA: El comercio de instrumentos financieros conlleva un riesgo sustancial de pérdida y no es adecuado para todos los inversores. La valoración de futuros, acciones y opciones puede fluctuar y, como resultado, los clientes pueden perder más de su inversión original. El impacto de eventos estacionales y geopolíticos ya está factorizado en los precios del mercado. La naturaleza altamente apalancada del comercio de futuros significa que pequeños movimientos del mercado tendrán un gran impacto en su cuenta de operaciones y esto puede jugar en su contra, llevando a grandes pérdidas o puede jugar a su favor, llevando a grandes ganancias.",
+      "destination": "Este correo electrónico ha sido enviado a ",
+      "unsubscribe": "Haz clic aquí para cancelar tu suscripción"
+    },
+    "title": "Tu Cuenta Ya No Existe",
+    "subject": "Tu Cuenta Ha Sido Eliminada"
+  }
+}
+
+{
+  "FACv2-43-Forgot-TL-Password": {
+    "title": "Hemos Restablecido Tu Contraseña de TradeLocker",
+    "greetings": "¡Hola {{firstName}}!",
+    "body": "Hemos recibido tu solicitud para restablecer la contraseña de tu cuenta de TradeLocker. Para recuperar el acceso a tu cuenta, encuentra tus credenciales y tu nueva contraseña a continuación:",
+    "accountDetails": {
+      "login": "Usuario:",
+      "password": "Contraseña:",
+      "serverName": "Servidor:"
+    },
+    "support": "Si no realizaste esta solicitud, por favor contáctanos inmediatamente en",
+    "cta": "Acceder a Mi Cuenta",
+    "signature": "Mucho éxito 🔥",
+    "footer": {
+      "contact": {
+        "email": "Ponte en contacto",
+        "pre": "o chatea con nosotros a través del",
+        "live": "chat en vivo",
+        "post": "para cualquier consulta grande o pequeña, nuestro equipo de soporte está aquí 24/7."
+      },
+      "signature": "Todo lo mejor 🔥"
+    },
+    "subject": "Tu Contraseña de TradeLocker Ha Sido Restablecida {{firstName}} 🚀"
+  }
+}
+
+{
+  "FACv2-44-Payout-Request-Changed": {
+    "greetings": "Hola {{firstName}},",
+    "body": "Nos complace informarte que tu solicitud de pago ha sido procesada con éxito. Sin embargo, debido a cambios recientes en el saldo de tu cuenta, hemos pagado la cantidad máxima permitida a la dirección proporcionada.</br></br> Por favor revisa la siguiente nota para aclaraciones:</br>{{note}}",
+    "cta": "Acceder a Mi Cuenta",
+    "signature": "Mucho éxito 🔥",
+    "footer": {
+      "address": "8th The Green Ste A Dover, DE 19901",
+      "copyright": "2024 TopTier Funding LLC. Todos los derechos reservados.",
+      "disclaimer": "ACLARATORIA: El comercio de instrumentos financieros conlleva un riesgo sustancial de pérdida y no es adecuado para todos los inversores. La valoración de futuros, acciones y opciones puede fluctuar y, como resultado, los clientes pueden perder más de su inversión original. El impacto de eventos estacionales y geopolíticos ya está factorizado en los precios del mercado. La naturaleza altamente apalancada del comercio de futuros significa que pequeños movimientos del mercado tendrán un gran impacto en su cuenta de operaciones y esto puede jugar en su contra, llevando a grandes pérdidas o puede jugar a su favor, llevando a grandes ganancias.",
+      "destination": "Este correo electrónico ha sido enviado a ",
+      "unsubscribe": "Haz clic aquí para cancelar tu suscripción"
+    },
+    "title": "Monto del Pago Cambiado {{firstName}}",
+    "subtitle": "Actualización de Pago",
+    "subject": "El Monto de Tu Pago ha Cambiado"
+  }
+}
+
+{
+  "FACv2-45-Competition-Rules-Breached": {
+    "title": "Se Han Infringido las Reglas de la Competencia",
+    "subtitle": "PERO NO TE RINDAS",
+    "greetings": "Hola {{firstName}},",
+    "body": "Lamentamos informarte que no seguiste las reglas de la competencia y tuvimos que excluirte de nuestra reciente competencia. Por favor, no te desanimes: ¡mantente atento a nuestra próxima competencia!",
+    "cta": "Acceder a Mi Panel",
+    "footer": {
+      "address": "8th The Green Ste A Dover, DE 19901",
+      "copyright": "2024 TopTier Funding LLC. Todos los derechos reservados.",
+      "disclaimer": "ACLARATORIA: El comercio de instrumentos financieros conlleva un riesgo sustancial de pérdida y no es adecuado para todos los inversores. La valoración de futuros, acciones y opciones puede fluctuar y, como resultado, los clientes pueden perder más de su inversión original. El impacto de eventos estacionales y geopolíticos ya está factorizado en los precios del mercado. La naturaleza altamente apalancada del comercio de futuros significa que pequeños movimientos del mercado tendrán un gran impacto en su cuenta de operaciones y esto puede jugar en su contra, llevando a grandes pérdidas o puede jugar a su favor, llevando a grandes ganancias.",
+      "destination": "Este correo electrónico ha sido enviado a ",
+      "unsubscribe": "Haz clic aquí para cancelar tu suscripción"
+    },
+    "subject": "Se Han Infringido las Reglas de la Competencia"
+  }
+}
+
+{
+  "FACv2-MT-to-TL-Migration": {
+    "title": "¡Prepárate para la plataforma de trading del futuro!",
+    "greetings": "Estimado Trader,",
+    "body": "Nos complace informarte que tus cuentas de challenge existentes ahora están disponibles en la plataforma TradeLocker.</br>A continuación, encontrarás tus credenciales únicas de TradeLocker, que te permitirán acceder a la plataforma TradeLocker donde encontrarás todas tus cuentas de challenge.",
+    "accountDetails": {
+      "title": "Credenciales de TradeLocker",
+      "login": "Usuario:",
+      "password": "Contraseña del Trader:",
+      "serverName": "Nombre del Servidor:",
+      "numberOfAccounts": "Cuentas movidas:"
+    },
+    "cta": "Acceder a Mis Cuentas",
+    "body2": "Una vez más, te agradecemos por tu continua confianza y lealtad como nuestro valioso cliente. Nos comprometemos a proporcionarte el más alto nivel de servicio en la plataforma TradeLocker, y esperamos tu continuo éxito.",
+    "signature": "Todo lo mejor 🔥",
+    "footer": {
+      "contact": {
+        "email": "Ponte en contacto",
+        "pre": "o chatea con nosotros a través del",
+        "live": "chat en vivo",
+        "post": "para cualquier consulta grande o pequeña, nuestro equipo de soporte está aquí 24/7."
+      },
+      "signature": "Todo lo mejor 🔥"
+    },
+    "subject": "¡Continúa tu Viaje de Trading con TopTier en TradeLocker Hoy!"
+  }
+}
+
+{
+  "FACv2-User Migration": {
+    "title": "{{firstName}} Di Hola a Tu Nueva y Mejorada Experiencia de Panel",
+    "greetings": "Hola {{firstName}}",
+    "body": "Nos complace presentarte nuestra nueva y mejorada tecnología de Cuenta Financiada.</br> Nuestro objetivo no es solo proporcionar financiamiento para traders talentosos que carecen de capital, sino también mejorar su experiencia de trading con características más avanzadas y opciones convenientes.",
+    "cta": "Acceder a Mi Nuevo Panel",
+    "benefits": "Nuevo Panel, Mismo Financiamiento, Mejores Beneficios",
+    "benefit1": "Ejecución de operaciones más rápida y mejor",
+    "benefit2": "Un solo panel, todas tus necesidades financiadas",
+    "benefit3": "Más características, menos dolores de cabeza",
+    "benefit4": "Mejor UX equivale a mejor experiencia de trading",
+    "benefit5": "Sistemas mejorados para un mejor rendimiento",
+    "benefit6": "Análisis avanzados para resultados superiores y decisiones informadas",
+    "signature": "Disfruta tu nueva y novedosa experiencia de panel - <b>{{brand}}</b> 🔥",
+    "footer": {
+      "contact": {
+        "pre": "Para cualquier consulta grande o pequeña, nuestro equipo de soporte está aquí 24/7.",
+        "email": "Contáctanos",
+        "post": "o utiliza nuestro chat en vivo en nuestra",
+        "live": "página web"
+      },
+      "destination": "Este correo electrónico ha sido enviado a",
+      "unsubscribe": "Haz clic aquí para cancelar tu suscripción",
+      "signature": "Let's Get Social 🔥"
+  },
+  "subject": "Saluda a tu nuevo y renovado panel {{firstName}} 🌟"
+}
+}
